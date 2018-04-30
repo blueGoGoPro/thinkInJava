@@ -35,6 +35,9 @@ public class C extends A{
     public void again(){
         System.out.println("再一次尝试idea直接提交");
     }
+    public void thirdTime(){
+        System.out.println("修改ssh设置后的提交");
+    }
     public static void main(String[] args) {
         C c = new C();
     }
