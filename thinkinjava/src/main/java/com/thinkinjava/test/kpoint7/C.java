@@ -32,6 +32,9 @@ public class C extends A{
     public void githubCommitTest(){
         System.out.println("我成功 的提交了呢");
     }
+    public void again(){
+        System.out.println("再一次尝试idea直接提交");
+    }
     public static void main(String[] args) {
         C c = new C();
     }
