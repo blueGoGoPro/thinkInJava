@@ -29,6 +29,9 @@ public class C extends A{
     static {
         b1 = new B();
     }
+    public void githubCommitTest(){
+        System.out.println("我成功 的提交了呢");
+    }
     public static void main(String[] args) {
         C c = new C();
     }
