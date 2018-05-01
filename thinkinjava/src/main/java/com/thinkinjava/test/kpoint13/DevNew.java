@@ -6,4 +6,5 @@ public class DevNew{
     private int gender;//性别
     private String mobile;//手机
     private String emial;//邮箱
+    private String deparent;//部门
 }
