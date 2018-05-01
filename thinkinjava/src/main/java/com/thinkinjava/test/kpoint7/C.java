@@ -38,6 +38,9 @@ public class C extends A{
     public void thirdTime(){
         System.out.println("修改ssh设置后的提交");
     }
+    public void gitHubUpdate(){
+        System.out.println("在github上修改,本地更新");
+    }
     public static void main(String[] args) {
         C c = new C();
     }
