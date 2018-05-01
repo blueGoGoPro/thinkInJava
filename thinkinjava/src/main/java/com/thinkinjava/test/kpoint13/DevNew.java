@@ -7,4 +7,5 @@ public class DevNew{
     private String mobile;//手机
     private String emial;//邮箱
     private String deparent;//部门
+    //master分支修改代码
 }
